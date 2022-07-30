@@ -1,1 +1,0 @@
-https://brick-breaker.readme.io/docs/getting-started
